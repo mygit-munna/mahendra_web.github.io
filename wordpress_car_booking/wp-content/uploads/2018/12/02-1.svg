@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127 146">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #005bea;
+        stroke-width: 3px;
+        font-size: 100px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="_02" data-name="02" class="cls-1" transform="translate(3 108)"><tspan x="0" y="0">02</tspan></text>
+</svg>

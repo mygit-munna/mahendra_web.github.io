@@ -1,0 +1,14 @@
+Database name - car_booking
+Database username - myuser
+Database password - y_WEDluSb/WStmp(
+Database host - localhost
+Table prefix - wp_
+
+
+
+
+wordpress
+Site Title - car_appointment
+Username - myuser
+Password - i!lNB1bmsC@NE$m14v
+email - khmahendra009@gmail.com

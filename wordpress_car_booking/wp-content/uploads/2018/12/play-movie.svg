@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 69.025 69.025">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.276" x2="1.277" y2="1.069" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005bea"/>
+      <stop offset="1" stop-color="#00c6fb"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_226" data-name="Group 226" transform="translate(-1556.487 -696.487)">
+    <g id="Group_2" data-name="Group 2" transform="translate(1375.487 98.487)">
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(181 598)">
+        <circle class="cls-4" cx="34.513" cy="34.513" r="34.513"/>
+        <circle class="cls-5" cx="34.513" cy="34.513" r="33.763"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M3910.246,1516.113" transform="translate(-3699.861 -897.499)"/>
+      <g id="media-play-symbol" transform="translate(208.388 617.754)">
+        <g id="Layer_8_16_" transform="translate(0)">
+          <path id="Path_206" data-name="Path 206" class="cls-3" d="M52.849.191a1.423,1.423,0,0,1,1.423,0L71.237,12.517a1.423,1.423,0,0,1,0,2.465L54.272,27.309a1.424,1.424,0,0,1-2.135-1.233V1.423A1.423,1.423,0,0,1,52.849.191Z" transform="translate(-52.137)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

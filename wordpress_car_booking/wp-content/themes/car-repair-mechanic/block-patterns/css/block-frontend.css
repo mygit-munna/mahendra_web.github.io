@@ -1,0 +1,193 @@
+/*banner section*/
+.free-car-repair-mechanic.slider-box-col{
+    margin-left: 58px !important;
+    margin-right: 58px !important;
+}
+.free-car-repair-mechanic.slider-box .wp-block-button a {
+    padding: 12px 20px;
+    color: #fff;
+    background: #FF1414;
+    font-weight: 600;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.free-car-repair-mechanic.slider-box .wp-block-social-links .wp-social-link a{
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 50%;
+    background: #1C5FE9;
+}
+.free-car-repair-mechanic.slider-box .wp-block-social-links .wp-social-link a:hover{
+    background: #FF1414;
+}
+.free-car-repair-mechanic.slider-box .wp-block-social-links ul li{
+    margin-bottom: 10px !important;
+}
+.free-car-repair-mechanic.slider-box{
+    position: relative;
+    width: 100%;
+}
+.free-car-repair-mechanic.video-col figure{
+    margin-bottom: 0 !important;
+}
+.free-car-repair-mechanic.video-text{
+    background: #1C5FE9;
+    padding: 10px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9;
+    margin-top: -44px;
+}
+.free-car-repair-mechanic.video-text:before{
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+    content: "\f0c1";
+    line-height: 1;
+    font-size: 12px;
+    color: #fff;
+    background: #FF1414;
+    padding: 12px !important;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+/*Service section*/
+.free-car-repair-mechanic.service-sec .wp-block-button.is-style-outline>.wp-block-button__link, 
+.free-car-repair-mechanic.service-sec .wp-block-button a{
+    border:none !important;
+    padding: 0 !important;
+    text-decoration: none;
+}
+.free-car-repair-mechanic.service-sec .wp-block-button a, .free-car-repair-mechanic.service-sec .wp-block-button a:hover{
+    color: #1C5FE9 !important;
+}
+.free-car-repair-mechanic.main-serv-img img{
+    border-radius: 30px;
+}
+.free-car-repair-mechanic.main-serv{
+    position: relative;
+}
+.free-car-repair-mechanic.service-content{
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    z-index: 9;
+    bottom: -20px;
+    background:#fff;
+    box-shadow: 0 0 10px #ddd;
+}
+.free-car-repair-mechanic.service-content p, .free-car-repair-mechanic.service-content .wp-block-button a, .free-car-repair-mechanic.service-content .wp-block-buttons{
+  display: none;
+}
+.free-car-repair-mechanic.main-serv-img img{
+    width: 100%;
+}
+.free-car-repair-mechanic.main-serv:hover p, .free-car-repair-mechanic.main-serv:hover .wp-block-button a, .free-car-repair-mechanic.main-serv:hover .wp-block-buttons{
+  display: block;
+}
+.free-car-repair-mechanic.service-content h2{
+    color:#000;
+}
+.free-car-repair-mechanic.service-sec h2:after{
+    font-family: "Font Awesome 5 Free"; 
+    position: absolute;
+    content: "\f0ad";
+    font-weight: 900;
+    line-height: 1;
+    font-size: 28px;
+    color: #FF1414;
+    margin-left: 10px;
+    border-radius: 10px 0 10px 0;
+}
+.free-car-repair-mechanic.service-sec .wp-block-button a:after{
+    font-family: "Font Awesome 5 Free"; 
+    position: absolute;
+    content: "\f061";
+    font-weight: 900;
+    font-size: 14px;
+    color: #1c5fe9;
+    margin-left: 5px;
+}
+.free-car-repair-mechanic.video-text p:before{
+    font-family: "Font Awesome 5 Free"; 
+    position: absolute;
+    content: "\f061";
+    font-weight: 900;
+    font-size: 14px;
+    color: #1c5fe9;
+    margin-left: 5px;
+}
+.free-car-repair-mechanic.icon-col .wp-block-image, .free-car-repair-mechanic.service-content .wp-block-button, .free-car-repair-mechanic.service-content p{
+    margin-bottom: 0 !important;
+}
+.free-car-repair-mechanic.video-1{
+    flex-basis: 30% !important;
+}
+/*responsive*/
+@media screen and (max-width: 720px) {
+   .free-car-repair-mechanic.slider-box h1, .free-car-repair-mechanic.slider-box p{
+        display: none;
+    }
+    .free-car-repair-mechanic.slider-box{
+        min-height: auto !important;
+    }
+    .free-car-repair-mechanic.serv-text{
+        flex-wrap: nowrap !important;
+        margin-bottom: 0 !important;
+    }
+    .wp-block-column.free-car-repair-mechanic.text-col {
+        flex-basis: 80% !important;
+    }
+    .wp-block-column.free-car-repair-mechanic.icon-col{
+        flex-basis: 20% !important;
+    }
+    .free-car-repair-mechanic.video-col figure{
+        min-width: 200px !important;
+    }
+    .free-car-repair-mechanic.slider-box-col{
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+    }
+    p.free-car-repair-mechanic.video-text{
+        display: block;
+    }
+    .free-car-repair-mechanic.video-text{
+        margin-top: -89px;
+    }
+}
+@media screen and (max-width: 1024px) and (min-width: 767px) {
+   .free-car-repair-mechanic.serv-text, .free-car-repair-mechanic.serv-col{
+        flex-wrap: nowrap !important;
+        margin-bottom: 0 !important;
+    }
+    .wp-block-column.free-car-repair-mechanic.text-col {
+        flex-basis: 80% !important;
+    }
+    .wp-block-column.free-car-repair-mechanic.icon-col{
+        flex-basis: 20% !important;
+    }
+    .free-car-repair-mechanic.slider-box p{
+        display: none;
+    }
+    p.free-car-repair-mechanic.video-text{
+        display: block;
+    }
+    .free-car-repair-mechanic.slider-box-col {
+        flex-wrap: nowrap !important;
+    }
+    .free-car-repair-mechanic.video-text{
+        margin-top: -97px;
+    }
+    .free-car-repair-mechanic.video-col figure{
+        min-width: 240px !important;
+    }
+}
+@media screen and (max-width: 1024px) and (min-width: 1000px) {
+    .free-car-repair-mechanic.video-1{
+        flex-basis: 15% !important;
+    }
+}
+
+

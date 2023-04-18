@@ -1,0 +1,17 @@
+[30/Mar/2023:06:01:02] (I): WordPress Instance Info:
+[30/Mar/2023:06:01:02] (I): Home URL : http://localhost/wordpress_car_booking
+[30/Mar/2023:06:01:02] (I): Site URL : http://localhost/wordpress_car_booking
+[30/Mar/2023:06:01:02] (I): WordPress Version : 6.2
+[30/Mar/2023:06:01:02] (I): Onboarding Version : 1.1.36
+[30/Mar/2023:06:01:02] (I): Multisite : No
+[30/Mar/2023:06:01:02] (I): Server Info : Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0
+[30/Mar/2023:06:01:02] (I): PHP Version : 8.2.0
+[30/Mar/2023:06:01:02] (I): HTTPS : No
+[30/Mar/2023:06:01:02] (I): PHP Max Execution Time : 120
+[30/Mar/2023:06:01:02] (I): PHP Max Input Vars : 1000
+[30/Mar/2023:06:01:02] (I): Max Upload Size : 41943040
+[30/Mar/2023:06:01:02] (I): Plugins:
+[30/Mar/2023:06:01:02] (I): [PLUGIN] Elementor : v3.12.0 (Elementor.com)
+[30/Mar/2023:06:01:02] (I): [PLUGIN] Image optimization service by Optimole : v3.5.7 (Optimole)
+[30/Mar/2023:06:01:02] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.3 (ThemeIsle)
+[30/Mar/2023:06:01:02] (I): [PLUGIN] Templates Patterns Collection : v1.1.36 (ThemeIsle)
